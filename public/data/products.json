@@ -1,0 +1,44 @@
+[
+{
+"id": 1,
+"name": "Sagitario",
+"description": "Excelente reproductor que se caracteriza por su cuerpo robusto, cubierto de pelo corto, ganador de ...", 
+"price": 3500000,
+"image": "/img/1.png"
+},
+{
+"id": 2,
+"name": "Capricornio",
+"description": "Excelente reproductor que se caracteriza por su cuerpo robusto, cubierto de pelo corto, ganador de ...", 
+"price": 3250000,
+"image": "/img/1.jpg"
+},
+{
+"id": 3,
+"name": "Cancer",
+"description": "Excelente reproductor que se caracteriza por su cuerpo robusto, cubierto de pelo corto, ganador de ...", 
+"price": 3250000,
+"image": "/img/2.png"
+},
+{
+"id": 4,
+"name": "Virgo",
+"description": "Excelente reproductor que se caracteriza por su cuerpo robusto, cubierto de pelo corto, ganador de ...", 
+"price": 3500000,
+"image": "/img/2.jpg"
+},
+{
+"id": 5,
+"name": "Geminis",
+"description": "Excelente reproductor que se caracteriza por su cuerpo robusto, cubierto de pelo corto, ganador de ...", 
+"price": 3100000,
+"image": "/img/3.jpg"
+},
+{
+"id": 6,
+"name": "Aries",
+"description": "Excelente reproductor que se caracteriza por su cuerpo robusto, cubierto de pelo corto, ganador de ...", 
+"price": 3000000,
+"image": "/img/4.jpg"
+}
+]
